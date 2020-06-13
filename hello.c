@@ -1,4 +1,4 @@
-#include<stdio.h>
+
 
 int prime(int so){
      int c;
